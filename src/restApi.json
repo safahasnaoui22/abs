@@ -1,0 +1,165 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "Indulge in Exquisite Culinary Craftsmanship, Elevating Every Bite" 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "Experience Culinary Excellence: Where Taste Meets Perfection" 
+            },
+            {
+               "id": 3,
+  "image": "https://t4.ftcdn.net/jpg/04/32/25/21/360_F_432252109_CL8tvRwN5oyyYpDBhBEchXKu7uGwrjTu.jpg",
+  "title": "Swift Service:",
+  "description": "Savor Your Meal at Our Restaurant"
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "title": "César Salad",
+                "category": "Dinner"
+            },
+            {
+                "id": 2,
+                "image": "https://www.david-renard.fr/wp-content/uploads/2021/03/classic-lasagna-with-bolognese-sauce-scaled.jpg",
+                "title": "Bolognese Lasagna",
+                "category": "Dinner"
+            },
+            {
+                "id": 3,
+                "image": "https://www.specialarabia.com/storage/tunisian-salad1.jpg",
+                "title": "Trio of Tunisian Salad ",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "https://cdn.pixabay.com/photo/2012/11/28/09/31/orange-juice-67556_1280.jpg",
+                "title": "Orange juice",
+                "category": "Dinner"
+            },
+            {
+                "id": 5,
+                "image": "https://images.unsplash.com/photo-1637216789852-d2c6d5de6f68?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "title": "Tunisian couscous",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "https://cookienameddesire.com/wp-content/uploads/2019/06/bacon-milkshake-4-735x1110.jpg",
+                "title": "Milk Shake",
+                "category": "Dinner"
+            },
+            {
+                "id": 7,
+                "image": "https://cdn.pixabay.com/photo/2024/01/12/04/09/tiramisu-8503073_1280.jpg",
+                "title": "Tiramisu",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "https://images.pexels.com/photos/1162455/pexels-photo-1162455.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "title": "iced coffee",
+                "category": "Dinner"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./team_member_1.png",
+                "name": "JOHNATHAN TYLER",
+                "designation": "Founder & Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "./team_member_2.png",
+                "name": "WADE WARREN",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "./team_member_3.png",
+                "name": "JHON DOE",
+                "designation": "Fast Food Chef"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_4.png",
+                "name": "ALEX COAL",
+                "designation": "Senior Chef"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            }
+          
+        ]
+    
+    } 
+    ]
+}
